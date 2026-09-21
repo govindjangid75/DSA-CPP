@@ -32,5 +32,10 @@ int main()
     cout << a.next->next->value << endl;             // 30
     cout << a.next->next->next->value << endl;       // 40
     cout << a.next->next->next->next->value << endl; // 50
+
+    cout << (*(a.next)).value << endl; // 20
+
+
+    // a ka next b ka address hai 
     return 0;
 }

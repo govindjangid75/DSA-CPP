@@ -17,6 +17,9 @@ A repository containing Data Structures and Algorithms (DSA) solutions and notes
 - `11-Searching` - Binary Search and Variations
 - `12-Strings` - String Methods, Substrings, Anagrams
 - `13-Recursion` - Recursion Trees, Paths, Classic Problems
+- `14-Object Oriented Programming` - Class, Objects, Object Pointer
+- `15-STL` - Vector , Deuqe
+- `16-Linked List` - Node , Linked Creation
 
 ## How to Run
 
